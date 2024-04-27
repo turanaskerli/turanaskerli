@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Turan Asgarli</h1>
+[<h1 align="center">Hi 👋, I'm Turan Asgarli</h1>](https://readme-typing-svg.herokuapp.com/?size=22&lines=I%27m+Turan+Askerli)
 - 🌱 I’m currently learning **Front-End (html, css, javascript)**
 
 - 📫 How to reach me **askerturanli@gmail.com**
